@@ -10,6 +10,11 @@ This version is discontinued. But you can still use it by installing Go language
 go install github.com/ashmat98/inlets@latest
 ```
 
+[Quick Start](./docs/quickstart.md) <br/>
+[Advanced](./docs/advanced.md) <br/>
+[Community](./docs/community.md)
+
+
 ## Intro
 
 inlets combines a reverse proxy and websocket tunnels to expose your internal and development endpoints to the public Internet via an exit-server. An exit-server may be a 5-10 USD VPS or any other computer with an IPv4 IP address. You can also tunnel services without exposing them on the Internet, making inlets a suitable replacement for a VPN.
@@ -26,9 +31,6 @@ With inlets you can set up your own self-hosted tunnel, copy over the static bin
 
 Alex is the primary author and maintainer of inlets, if you use the project, become a sponsor of the project on GitHub.
 
-<a href="https://github.com/sponsors/inlets/">
-<img alt="Sponsor this project" src="https://github.com/alexellis/alexellis/blob/master/sponsor-today.png" width="90%">
-</a>
 
 ### SWAG and merchandise
 
